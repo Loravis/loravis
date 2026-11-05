@@ -11,6 +11,11 @@ I code things in my free time for fun.
   <img src="https://www.tech-stack-icons.com/api/readme/icon/c%23?variant=light" width="40" height="40" alt="C#" title="C#">
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.tech-stack-icons.com/api/readme/icon/net?variant=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/net?variant=light">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/net?variant=light" width="40" height="40" alt="Net" title="Net">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.tech-stack-icons.com/api/readme/icon/c%2B%2B?variant=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/c%2B%2B?variant=light">
   <img src="https://www.tech-stack-icons.com/api/readme/icon/c%2B%2B?variant=light" width="40" height="40" alt="C++" title="C++">
