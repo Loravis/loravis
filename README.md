@@ -1,6 +1,8 @@
 ## Hi, I'm Laura
 
 I code things in my free time for fun.
+My preferred fields are backend (C# or Python) and systems (C/C++) programming. 
+Sometimes I do frontend things (like my website) but this is rare.
 
 ### Tech stack
 
@@ -35,15 +37,4 @@ I code things in my free time for fun.
   <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/pycharm?variant=light">
   <img src="https://www.tech-stack-icons.com/api/readme/icon/pycharm?variant=light" width="40" height="40" alt="Pycharm" title="Pycharm">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.tech-stack-icons.com/api/readme/icon/html5?variant=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/html5?variant=light">
-  <img src="https://www.tech-stack-icons.com/api/readme/icon/html5?variant=light" width="40" height="40" alt="HTML5" title="HTML5">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.tech-stack-icons.com/api/readme/icon/css3?variant=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/css3?variant=light">
-  <img src="https://www.tech-stack-icons.com/api/readme/icon/css3?variant=light" width="40" height="40" alt="CSS3" title="CSS3">
-</picture>
 </p>
-<!-- tech-stack-icons:end -->
